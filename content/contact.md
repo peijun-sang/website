@@ -2,23 +2,15 @@
 title: Contact
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [peijun.sang@uwaterloo.ca](mailto:peijun.sang@uwaterloo.ca)
+* Phone: [+1-519-888-4567x36405](tel:+1-519-888-4567x36405)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> M3 4004, University of Waterloo
 >
-> London
+> 200 University Avenue West, Waterloo
 >
-> United Kingdom
-
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+> Ontario, Canada

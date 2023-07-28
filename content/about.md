@@ -6,55 +6,40 @@ title: About
 
 {{< figure class="avatar" src="/avatar.jpg" alt="avatar">}}
 
-This is a John Doe based California. You can find from the [Ns](https://github.com/ojroques/hugo-researcher).
+I am Peijun Sang, an assistant professor from the Department of Statistics and Actuarial Science at the University of Waterloo.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+1. Functional data analysis
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+2. Copula and dependence modelling
+
+3. High-dimensional regression analysis
 
 ## Publications
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+##### Statistical Methodological paper
 
-## Typography
+1. **Sang, P.**, Wang, L., & Cao, J. (2016). Parametric Functional Principal Component Analysis. *Biometrics*, 73, 802-810.
+2. Joe, H., & **Sang, P.** (2016). Multivariate models for dependent clusters of variables with conditionalindependence given aggregation variables. *Computational Statistics and Data Analysis*, 97, 114-132.
+3. **Sang P.**, Lochhart, R.A. & Cao, J. (2018). Sparse estimation for functional semiparametric additive models. *Journal of Multivariate Analsis*, 168, 105-118.
+4. **Sang, P.**, Wang, L., & Cao, J. (2019) Weighted empirical likelihood inference for dynamical correlations. *Computational Statistics and Data Analysis*, 131, 194-206.
+5. **Sang, P.** & Cao, J. (2019). Functional single-index quantile regression models. *Statistics and Computing*, 30, 771-781
+6. **Sang, P.**, Wang, L., & Cao, J. (2020). Estimation of Sparse Functional Additive Modelswith Adaptive Group LASSO. *Statistica Sinica*, 30, 1191-1211.
+7. **Sang, P.**, Begen, M.A. & Cao, J. (2021). Appointment scheduling with a quantile objective. *Computers and Operations Research*, 132 105295.
+8. **Sang, P.**, Kashlak, A.B. & Kong, L. Reproducing Kernel Hilbert Space Framework for Functional Classification. *Journal of Computational and Graphical Statistics*, In press.
+9. Zhou. Z. & **Sang, P.** Continuum centroid classifier for functional data. *Candian Journal of Statistics*, 50, 200-220.
+10. Shang, H.L., Cao, J. & **Sang, P.** (2022). Stopping time detection of wood panel compression: A functional time-series approach. *Journal of the Royal Statistical Society. Series C: Applied Statistics*, 71, 1205-1224.
+11. Yeh, C.-K & **Sang, P.** (2023). Variable Selection in Multivariate Functional Linear Regression. *Statsitics in Bioscience*.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+##### Application paper
 
-Here is a table:
+1. Yu, H., **Sang, P.** & Huan, T. Adaptive Box-Cox Transformation: A Highly Flexible Feature-Specific Data Transformation to Improve Metabolomic Data Normality for Better Statistical Analysis. *Analytical Chemistry*, 94, 8267-8276.
 
-Year | Award | Category
+## Education
+
+Year | Degree | Institution
 -----|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule:
-
----
-
-Here is a blockquote:
-
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+2010 | B.S.  | Zhejiang University 
+2014 | M.S. | University of British Columbia 
+2018 | Ph.D. | Simon Fraser University
