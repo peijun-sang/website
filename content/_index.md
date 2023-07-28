@@ -11,10 +11,9 @@ I am Peijun Sang, an assistant professor from the Department of Statistics and A
 ## Research Interest
 
 1. Functional data analysis
+2. High-dimensional regression analysis
+3. Copula and dependence modelling
 
-2. Copula and dependence modelling
-
-3. High-dimensional regression analysis
 
 ## Publications
 
@@ -23,10 +22,11 @@ I am Peijun Sang, an assistant professor from the Department of Statistics and A
 * **Sang, P.**, Kong, D. & Yang, S. Functional principal component analysis for longitudinal observations with sampling at random. [arXiv:2203.14760](https://arxiv.org/abs/2203.14760).
 * **Sang, P.** & Li B. Nonlinear function-on-function regression by RKHS. [arXiv:2207.08211](https://arxiv.org/abs/2207.08211).
 * Xu M., Wong, S.W.K. & **Sang, P.** A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations. [arXiv:2304.02127](https://arxiv.org/abs/2304.02127).
-* Xie, J., Shi, E., **Sang, P.**, Shang, Z., Jiang, B & Kong, L. Scalable inference in functional linear regression with streaming data. [arXiv:2302.02457](https://arxiv.org/abs/2302.02457)
+* Xie, J., Shi, E., **Sang, P.**, Shang, Z., Jiang, B & Kong, L. Scalable inference in functional linear regression with streaming data. [arXiv:2302.02457](https://arxiv.org/abs/2302.02457).
 * **Sang, P.**, Shang, Z. & Du, P. Statistical Inference for Functional Linear Quantile Regression. [arXiv:2202.11747](https://arxiv.org/abs/2202.11747).
-* Jian J., **Sang, P.** & Zhu, M. Two Gaussian regularization methods for time-varying networks. [arXiv:2202.07099](https://arxiv.org/abs/2202.07099)
-
+* Jian J., **Sang, P.** & Zhu, M. Two Gaussian regularization methods for time-varying networks. [arXiv:2202.07099](https://arxiv.org/abs/2202.07099).
+* Luo Y. **Sang, P.** & Xiao R. Order Statistics Approaches to Unobserved Heterogeneity in Auctions. [arXiv:2210.03547](https://arxiv.org/abs/2210.03547).
+* Luo Y. & **Sang, P.** Penalized sieve estimation of structural models. [arXiv:2204.13488](https://arxiv.org/abs/2204.13488).
 
 ##### Statistical Methodological paper
 
