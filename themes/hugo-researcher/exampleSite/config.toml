@@ -16,6 +16,7 @@ googleAnalytics = ""  # add your tracking id
     url = "https://github.com/ojroques/hugo-researcher"
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Inconsolata"
+    fontSize = "14pt"
     pageWidth = "750px"
     avatarSize = "90px"
     colorBlack = "#222222"
@@ -28,6 +29,10 @@ googleAnalytics = ""  # add your tracking id
     icon = "fas fa-envelope"
     title = "E-mail"
     url = "mailto:mail@example.com"
+  [[params.socialIcons]]
+    icon = "ai ai-google-scholar"
+    title = "Scholar"
+    url = "https://scholar.google.com/"
 
 [permalinks]
   "/" = "/:filename"
@@ -35,7 +40,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/"
     weight = 1
   [[menu.main]]
     name = "Resume"
