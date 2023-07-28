@@ -31,6 +31,7 @@ I am Peijun Sang, an assistant professor from the Department of Statistics and A
 9. Zhou. Z. & **Sang, P.** Continuum centroid classifier for functional data. *Candian Journal of Statistics*, 50, 200-220.
 10. Shang, H.L., Cao, J. & **Sang, P.** (2022). Stopping time detection of wood panel compression: A functional time-series approach. *Journal of the Royal Statistical Society. Series C: Applied Statistics*, 71, 1205-1224.
 11. Yeh, C.-K & **Sang, P.** (2023). Variable Selection in Multivariate Functional Linear Regression. *Statsitics in Bioscience*.
+12. **Sang, P.** (2023). Distance‐weighted discrimination for functional data. *Stat*, 2:e598.
 
 ##### Application paper
 
