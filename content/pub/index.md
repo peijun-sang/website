@@ -7,14 +7,14 @@ title: Publication
 
 ### Preprint
 
-[-]. **Sang, P.**, Kong, D. & Yang, S. Functional principal component analysis for longitudinal observations with sampling at random. [arXiv:2203.14760](https://arxiv.org/abs/2203.14760).\
-[-]. **Sang, P.** & Li B. Nonlinear function-on-function regression by RKHS. [arXiv:2207.08211](https://arxiv.org/abs/2207.08211).\
-[-]. Xu, M., Wong, S.W.K. & **Sang, P.** A Bayesian collocation integral method for parameter estimation in ordinary differential equations. [arXiv:2304.02127](https://arxiv.org/abs/2304.02127).\
-[-]. Xie, J., Shi, E., **Sang, P.**, Shang, Z., Jiang, B. & Kong, L. Scalable inference in functional linear regression with streaming data. [arXiv:2302.02457](https://arxiv.org/abs/2302.02457).\
-[-]. **Sang, P.**, Shang, Z. & Du, P. Statistical inference for functional Linear quantile regression. [arXiv:2202.11747](https://arxiv.org/abs/2202.11747).\
-[-]. Jian J., **Sang, P.** & Zhu, M. Two Gaussian regularization methods for time-varying networks. [arXiv:2202.07099](https://arxiv.org/abs/2202.07099).\
-[-]. Luo Y., **Sang, P.** & Xiao R. Order statistics approaches to unobserved heterogeneity in auctions. [arXiv:2210.03547](https://arxiv.org/abs/2210.03547).\
-[-]. Luo Y. & **Sang, P.** Penalized sieve estimation of structural models. [arXiv:2204.13488](https://arxiv.org/abs/2204.13488).
+[-]. **Sang, P.**, Kong, D. & Yang, S. [Functional principal component analysis for longitudinal observations with sampling at random](https://arxiv.org/abs/2203.14760). arXiv:2203.14760].\
+[-]. **Sang, P.** & Li, B. [Nonlinear function-on-function regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
+[-]. Xu, M., Wong, S.W.K. & **Sang, P.** [A Bayesian collocation integral method for parameter estimation in ordinary differential equations](https://arxiv.org/abs/2304.02127). arXiv:2304.02127.\
+[-]. Xie, J., Shi, E., **Sang, P.**, Shang, Z., Jiang, B. & Kong, L. [Scalable inference in functional linear regression with streaming data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
+[-]. **Sang, P.**, Shang, Z. & Du, P. [Statistical inference for functional Linear quantile regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
+[-]. Jian J., **Sang, P.** & Zhu, M. [Two Gaussian regularization methods for time-varying networks](https://arxiv.org/abs/2202.07099). arXiv:2202.07099.\
+[-]. Luo Y., **Sang, P.** & Xiao R. [Order statistics approaches to unobserved heterogeneity in auctions](https://arxiv.org/abs/2210.03547). arXiv:2210.03547.\
+[-]. Luo Y. & **Sang, P.** [Penalized sieve estimation of structural models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.
 
 ### Statistical Methodological paper
 
