@@ -22,8 +22,8 @@ menu:
     - name: Publication
       url: /pub/
       weight: -120
-    - name: Student
-      url: /student/
+    - name: Group
+      url: /group/
       weight: -110 
     - name: Contact
       url: /contact/
@@ -36,7 +36,7 @@ menu:
     #   weight: -130
 params:
   authorName: Peijun Sang
-  description: Hellow world
+  description: Hello world
   imgname:
     alt: Profile picture
     blogrss: yes

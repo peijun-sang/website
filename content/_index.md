@@ -72,18 +72,19 @@ personal_title: Assistant Professor
 
 # About Me
 
-I am Peijun Sang, an assistant professor from the Department of Statistics and Actuarial Science at the University of Waterloo.
+Hello, I am Peijun Sang, an assistant professor from the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
 
 ## Research Interest
 
 1. Functional data analysis
 2. High-dimensional regression analysis
 3. Copula and dependence modelling
+4. Streaming data and online learning problems
 
 ## Education
 
 Year | Degree | Institution
 :-----|:-------:|:--------:
 2010 | B.S.  | Zhejiang University 
-2014 | M.S. | University of British Columbia 
+2014 | M.S.  | University of British Columbia 
 2018 | Ph.D. | Simon Fraser University
