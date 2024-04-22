@@ -72,7 +72,7 @@ personal_title: Assistant Professor
 
 # About Me
 
-Hello, I am Peijun Sang, an assistant professor from the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
+Hello, I am Peijun, often go by Perry, an assistant professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
 
 ## Research Interest
 

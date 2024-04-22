@@ -29,7 +29,7 @@ title: Publication
 [7]. **Sang, P.**, Begen, M.A. & Cao, J. (2021). [Appointment Scheduling with a Quantile Objective](https://www.sciencedirect.com/science/article/pii/S0305054821000873). *Computers and Operations Research*, 132, 105295.\
 [8]. Zhou. Z. & **Sang, P.** (2022) [Continuum Centroid Classifier for Functional Data](https://onlinelibrary.wiley.com/doi/full/10.1002/cjs.11624). *Candian Journal of Statistics*, 50, 200-220.\
 [9]. Shang, H.L., Cao, J. & **Sang, P.** (2022). [Stopping Time Detection of Wood Panel Compression: a Functional Time-series Approach](https://academic.oup.com/jrsssc/article/71/5/1205/7073314). *Journal of the Royal Statistical Society. Series C: Applied Statistics*, 71, 1205-1224.\
-[10]. Liu, B. & **Sang, P.** (2022). L1-regularized Functional Support Vector Machine. *Statistics and Its Interface*, in press.\
+[10]. Liu, B.\* & **Sang, P.** (2022). L1-regularized Functional Support Vector Machine. *Statistics and Its Interface*, in press.\
 [11]. **Sang, P.**, Kashlak, A.B. & Kong, L. (2023) [Reproducing Kernel Hilbert Space Framework for Functional Classification](https://www.google.com/search?client=firefox-b-d&q=Reproducing+kernel+Hilbert+space+framework+for+functional+classification). *Journal of Computational and Graphical Statistics*, 30, 1000-1008.\
 [12]. Yeh, C.-K. & **Sang, P.** (2023). [Variable Selection in Multivariate Functional Linear Regression](https://www.google.com/search?client=firefox-b-d&q=Variable+selection+in+multivariate+functional+linear+regression). *Statsitics in Bioscience*.\
 [13]. **Sang, P.** (2023). [Distance‐weighted Discrimination for Functional Data](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.598). *Stat*, 2:e598.\
