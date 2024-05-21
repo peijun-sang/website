@@ -13,7 +13,6 @@ title: Publication
 [-]. **Sang, P.** & Li, B. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. Xie, J., Shi, E., **Sang, P.**, Shang, Z., Jiang, B. & Kong, L. [Scalable Inference in functional Linear Regression with Streaming Data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
 [-]. **Sang, P.**, Shang, Z. & Du, P. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
-[-]. Luo, Y., **Sang, P.** & Xiao R. [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://arxiv.org/abs/2210.03547). arXiv:2210.03547.\
 [-]. Luo, Y. & **Sang, P.** [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
 [-]. Zhang, C.\*, **Sang, P.** & Qin, Y. [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). arXiv:2312.07727.\
 [-]. Jian, J.\*, Zhu, M. & **Sang, P.** [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.
@@ -34,7 +33,8 @@ title: Publication
 [12]. Yeh, C.-K. & **Sang, P.** (2023). [Variable Selection in Multivariate Functional Linear Regression](https://www.google.com/search?client=firefox-b-d&q=Variable+selection+in+multivariate+functional+linear+regression). *Statsitics in Bioscience*.\
 [13]. **Sang, P.** (2023). [Distance‐weighted Discrimination for Functional Data](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.598). *Stat*, 2:e598.\
 [14]. Jian, J.\*, **Sang, P.** & Zhu, M. (2024) [Two Gaussian Regularization Methods for Time-varying Networks](https://link.springer.com/article/10.1007/s13253-023-00591-w). *Journal of Agricultural, Biological and Environmental Statistics*, in press.\
-[15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024) [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, in press.
+[15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024) [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, in press.\
+[16]. Luo, Y., **Sang, P.** & Xiao R. [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://arxiv.org/abs/2210.03547). *Electronic Journal of Statistics*, in press.
 
 ### Application paper
 

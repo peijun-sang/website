@@ -9,8 +9,8 @@ title: Group
 
 #### Postdoctoral Fellow
 
-+ Yifan Sun, co-mentor: [Pengfei Li](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/pengfei-li).
-+ [Chi-Kuang Yeh](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/chi-kuang-yeh), CANSSI Distinguish Postdoctoral Fellow, co-mentor: [Arche Yi Yang](https://www.math.mcgill.ca/yyang/) (McGill University).
++ Yifan Sun, PhD from the [University of Chinese Academy of Sciences](https://math.ucas.ac.cn/), co-mentor: [Pengfei Li](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/pengfei-li).
++ [Chi-Kuang Yeh](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/chi-kuang-yeh), PhD from the [University of Waterloo](https://uwaterloo.ca/), CANSSI Distinguish Postdoctoral Fellow, co-mentor: [Yi Yang](https://www.math.mcgill.ca/yyang/) (McGill University).
 
 #### Ph.D.
 + [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervise with [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).
