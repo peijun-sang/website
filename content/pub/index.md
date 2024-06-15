@@ -5,7 +5,7 @@ hideLastMod: true
 title: Publication
 ---
 
-\* indicates my students.
+\* indicates my students; \+ indicates postdocs
 
 ### Preprint
 
@@ -32,9 +32,9 @@ title: Publication
 [11]. **Sang, P.**, Kashlak, A.B. & Kong, L. (2023) [Reproducing Kernel Hilbert Space Framework for Functional Classification](https://www.google.com/search?client=firefox-b-d&q=Reproducing+kernel+Hilbert+space+framework+for+functional+classification). *Journal of Computational and Graphical Statistics*, 30, 1000-1008.\
 [12]. Yeh, C.-K. & **Sang, P.** (2023). [Variable Selection in Multivariate Functional Linear Regression](https://www.google.com/search?client=firefox-b-d&q=Variable+selection+in+multivariate+functional+linear+regression). *Statsitics in Bioscience*.\
 [13]. **Sang, P.** (2023). [Distance‐weighted Discrimination for Functional Data](https://onlinelibrary.wiley.com/doi/full/10.1002/sta4.598). *Stat*, 2:e598.\
-[14]. Jian, J.\*, **Sang, P.** & Zhu, M. (2024) [Two Gaussian Regularization Methods for Time-varying Networks](https://link.springer.com/article/10.1007/s13253-023-00591-w). *Journal of Agricultural, Biological and Environmental Statistics*, in press.\
-[15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024) [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, in press.\
-[16]. Luo, Y., **Sang, P.** & Xiao R. [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://arxiv.org/abs/2210.03547). *Electronic Journal of Statistics*, in press.
+[14]. Jian, J.\*, **Sang, P.** & Zhu, M. (2024). [Two Gaussian Regularization Methods for Time-varying Networks](https://link.springer.com/article/10.1007/s13253-023-00591-w). *Journal of Agricultural, Biological and Environmental Statistics*, in press.\
+[15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024). [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, in press.\
+[16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://arxiv.org/abs/2210.03547). *Electronic Journal of Statistics*, in press.
 
 ### Application paper
 
