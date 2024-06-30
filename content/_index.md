@@ -9,7 +9,7 @@ imgname:
   name: img/main.jpg
   type: image/jpeg
 name: Peijun Sang
-personal_title: Assistant Professor
+personal_title: Associate Professor
 # publications:
 # - authors:
 #   - me: true
@@ -76,10 +76,10 @@ Hello, I am Peijun, often go by Perry, an assistant professor in the [Department
 
 ## Research Interest
 
-1. Functional data analysis
-2. High-dimensional regression analysis
-3. Copula and dependence modelling
-4. Streaming data and online learning problems
+* Functional data analysis
+* High-dimensional regression analysis
+* Copula and dependence modelling
+* Streaming data and online learning problems
 
 ## Education
 
