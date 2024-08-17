@@ -7,19 +7,19 @@ title: Publication
 
 \* indicates my students; \+ indicates postdocs and visitors.
 
-### Preprint
+### Preprints
 
 [-]. **Sang, Peijun**, Kong, Dehan. & Yang, Shu. [Functional Principal Component Analysis for Longitudinal Observations with Sampling at Random](https://arxiv.org/abs/2203.14760). arXiv:2203.14760.\
 [-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
-[-]. Xie, Jinhan, Shi, Enze, **Sang, Peijun**, Shang, Zuofeng, Jiang, Bei & Kong, Linglong [Scalable Inference in functional Linear Regression with Streaming Data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
+[-]. Xie, Jinhan, Shi, Enze, **Sang, Peijun**, Shang, Zuofeng, Jiang, Bei & Kong, Linglong. [Scalable Inference in functional Linear Regression with Streaming Data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
-[-]. Luo, Yao & **Sang, Peijun** [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
+[-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). arXiv:2312.07727.\
-[-]. Jian, Jie\*, Zhu, Mu & **Sang, Peijun.** [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
+[-]. Jian, Jie\*, Zhu, Mu & **Sang, Peijun**. [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564. 
 
 
-### Statistical Methodological paper
+### Statistical Methodology Papers
 
 [1]. Joe, H. & **Sang, P.** (2016). [Multivariate Models for Dependent Clusters of Variables with Conditional Independence given Aggregation Variables](https://www.sciencedirect.com/science/article/pii/S0167947315003011). *Computational Statistics & Data Analysis*, 97, 114--132.\
 [2]. **Sang, P.**, Wang, L. & Cao, J. (2017). [Parametric Functional Principal Component Analysis](https://onlinelibrary.wiley.com/doi/10.1111/biom.12641). *Biometrics*, 73, 802--810.\
@@ -38,6 +38,6 @@ title: Publication
 [15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024). [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, in press.\
 [16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Order-statistics-approaches-to-unobserved-heterogeneity-in-auctions/10.1214/24-EJS2258.full). *Electronic Journal of Statistics*, 18, 2477--2530.
 
-### Application paper
+### Application Papers
 
 [1]. Yu, H., **Sang, P.** & Huan, T. (2022). [Adaptive Box-Cox transformation: a highly flexible feature-specific data transformation to improve metabolomic data normality for better statistical analysis](https://pubs.acs.org/doi/10.1021/acs.analchem.2c00503). *Analytical Chemistry*, 94, 8267-8276.
