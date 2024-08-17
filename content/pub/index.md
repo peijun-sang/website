@@ -12,11 +12,11 @@ title: Publication
 [-]. **Sang, Peijun**, Kong, Dehan. & Yang, Shu. [Functional Principal Component Analysis for Longitudinal Observations with Sampling at Random](https://arxiv.org/abs/2203.14760). arXiv:2203.14760.\
 [-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. Xie, Jinhan, Shi, Enze, **Sang, Peijun**, Shang, Zuofeng, Jiang, Bei & Kong, Linglong [Scalable Inference in functional Linear Regression with Streaming Data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
-[-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
+[-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Luo, Yao & **Sang, Peijun** [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
-[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). arXiv:2312.07727.\
-[-]. Jian, Jie\*, Zhu, M. & **Sang, P.** [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
-[-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong Variational Nonparametric Inference in Functional Stochastic Block Model. 
+[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). arXiv:2312.07727.\
+[-]. Jian, Jie\*, Zhu, Mu & **Sang, Peijun.** [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
+[-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564. 
 
 
 ### Statistical Methodological paper

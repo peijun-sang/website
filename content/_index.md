@@ -3,7 +3,7 @@ address:
 - locality: Canada
   name: M3 4004, University of Waterloo
   postal_code: "N2L 3G1"
-  street: 200 Univeristy Avenue West
+  street: 200 University Avenue West
 imgname:
   alt: Picture of me
   name: img/main.jpg
@@ -72,7 +72,7 @@ personal_title: Associate Professor
 
 # About Me
 
-Hello, I am Peijun, often go by Perry, an assistant professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
+Hello, I am Peijun, often go by Perry, an associate professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
 
 ## Research Interest
 
