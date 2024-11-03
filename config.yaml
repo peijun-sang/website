@@ -1,5 +1,5 @@
-baseurl: https://teacup2021.github.io/
-publishDir: "../teacup2021.github.io"
+baseurl: https://peijun-sang.github.io/
+publishDir: "../peijun-sang.github.io"
 languageCode: en-us
 title: Peijun Sang
 theme: hugo-astatine-theme
