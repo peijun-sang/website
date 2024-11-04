@@ -80,6 +80,7 @@ Hello, I am Peijun, often go by Perry, an associate professor in the [Department
 * High-dimensional regression analysis
 * Copula and dependence modelling
 * Streaming data and online learning problems
+* PU learning
 
 ## Education
 

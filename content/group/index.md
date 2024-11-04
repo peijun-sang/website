@@ -27,7 +27,10 @@ title: Group
 + Xinyi Ke, MMath.
 + Bingfan Liu, MMath, Now PhD student at Simon Fraser University.
 + Yan Shi, MQF, Now a Quantitative Analyst at Scotia Bank.
++ John Lin, MQF.
 + Xiaoming Jin, MMath, Now a Data Scientist at TD Bank.
 
-#### Undergraduate
-+ [Shushan Wu](https://scholar.google.com/citations?hl=zh-CN&user=7kMybP0AAAAJ&view_op=list_works&sortby=pubdate), Undergraduate visiting student, Nankai University, Now PhD student at the University of Georgia.
+
+
+
+
