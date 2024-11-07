@@ -71,7 +71,6 @@ personal_title: Associate Professor
 # [-]. Xie, Jinhan, Shi, Enze, **Sang, Peijun**, Shang, Zuofeng, Jiang, Bei & Kong, Linglong. [Scalable Inference in functional Linear Regression with Streaming Data](https://arxiv.org/abs/2302.02457). arXiv:2302.02457.\
 ---
 
-
 # About Me
 
 Hello, I am Peijun, often go by Perry, an associate professor in the [Department of Statistics and Actuarial Science](https://uwaterloo.ca/statistics-and-actuarial-science/) at the [University of Waterloo](https://uwaterloo.ca/).
@@ -82,7 +81,7 @@ Hello, I am Peijun, often go by Perry, an associate professor in the [Department
 * High-dimensional regression analysis
 * Copula and dependence modelling
 * Streaming data and online learning problems
-* PU learning
+* PU learning and semi-supervised learning
 
 ## Education
 
