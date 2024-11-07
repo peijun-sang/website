@@ -25,10 +25,12 @@ title: Group
 
 #### Master
 + Xinyi Ke, MMath.
++ Xiaoming Jin, MMath, Now a Data Scientist at TD Bank.
++ Yuhan Cui, MMath, Canadian Institute for Health Information.
 + Bingfan Liu, MMath, Now PhD student at Simon Fraser University.
 + Yan Shi, MQF, Now a Quantitative Analyst at Scotia Bank.
-+ John Lin, MQF.
-+ Xiaoming Jin, MMath, Now a Data Scientist at TD Bank.
++ Ziqiao Lin, MQF.
+
 
 
 
