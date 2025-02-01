@@ -35,7 +35,7 @@ title: Publication
 [15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024). [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, 33, 845--854.\
 [16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Order-statistics-approaches-to-unobserved-heterogeneity-in-auctions/10.1214/24-EJS2258.full). *Electronic Journal of Statistics*, 18, 2477--2530.\
 [17]. **Sang, P.**, Kong, D. & Yang, S. (2024). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, in press.\
-[18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) Two-sample Inference for Sparse Functional Data. Electronic Journal of Statistics, accepted.
+[18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) Two-sample Inference for Sparse Functional Data. *Electronic Journal of Statistics*, accepted.
 
 ### Application Papers
 
