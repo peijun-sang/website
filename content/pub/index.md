@@ -12,9 +12,9 @@ title: Publication
 [-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
-[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). arXiv:2312.07727.\
 [-]. Jian, Jie\*, Zhu, Mu & **Sang, Peijun**. [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
-[-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564. 
+[-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
+[-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.
 
 ### Statistical Methodology Papers
 
@@ -34,7 +34,8 @@ title: Publication
 [14]. Jian, J.\*, **Sang, P.** & Zhu, M. (2024). [Two Gaussian Regularization Methods for Time-varying Networks](https://link.springer.com/article/10.1007/s13253-023-00591-w). *Journal of Agricultural, Biological and Environmental Statistics*, 29, 853--873.\
 [15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024). [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, 33, 845--854.\
 [16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Order-statistics-approaches-to-unobserved-heterogeneity-in-auctions/10.1214/24-EJS2258.full). *Electronic Journal of Statistics*, 18, 2477--2530.\
-[17]. **Sang, P.**, Kong, D. & Yang, S. (2024). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, in press.
+[17]. **Sang, P.**, Kong, D. & Yang, S. (2024). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, in press.\
+[18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) Two-sample Inference for Sparse Functional Data. Electronic Journal of Statistics, accepted.
 
 ### Application Papers
 
