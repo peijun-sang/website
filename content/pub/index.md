@@ -35,7 +35,11 @@ title: Publication
 [15]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2024). [A Bayesian Collocation Integral Method for Parameter Estimation in Ordinary Differential Equations](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2302528). *Journal of Computational and Graphical Statistics*, 33, 845--854.\
 [16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Order-statistics-approaches-to-unobserved-heterogeneity-in-auctions/10.1214/24-EJS2258.full). *Electronic Journal of Statistics*, 18, 2477--2530.\
 [17]. **Sang, P.**, Kong, D. & Yang, S. (2024). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, in press.\
+<<<<<<< Updated upstream
 [18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) Two-sample Inference for Sparse Functional Data. *Electronic Journal of Statistics*, accepted.
+=======
+[18]. Zhang, C\*, **Sang, P.** & Qin, Y. (2025) [Two-sample Inference for Sparse Functional Data](https://arxiv.org/abs/2312.07727). *Electronic Journal of Statistics*, accepted.
+>>>>>>> Stashed changes
 
 ### Application Papers
 
@@ -44,3 +48,5 @@ title: Publication
 ### Others
 
 [1]. **Sang, P.**, Nie, Y. & Cao, J. (2016). [Comments on: Probability enhanced effective dimension reduction for classifying sparse functional data](https://link.springer.com/content/pdf/10.1007/s11749-015-0473-z.pdf?utm_source=scopus&getft_integrator=scopus). *Test*, 25, 33-34.
+
+[2]. **Sang, P.**. 
