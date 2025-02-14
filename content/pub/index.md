@@ -14,7 +14,8 @@ title: Publication
 [-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
 [-]. Jian, Jie\*, Zhu, Mu & **Sang, Peijun**. [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). arXiv:2310.10952.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
-[-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.
+[-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
+[-]. Sun, Yifan, **Sang, Peijun**, Tian, Qinglong Tian & Li, Pengfei. [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](http://arxiv.org/abs/2502.08569). arXiv:2502.08569.
 
 ### Statistical Methodology Papers
 
