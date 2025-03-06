@@ -12,7 +12,7 @@ title: Publication
 [-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
-[-]. Shang, Zuofeng, **Sang, Peijun**, Yang, Feng & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
+[-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
 [-]. Sun, Yifan, **Sang, Peijun**, Tian, Qinglong & Li, Pengfei. [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](http://arxiv.org/abs/2502.08569). arXiv:2502.08569.
 
