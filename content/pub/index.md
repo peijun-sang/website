@@ -15,7 +15,8 @@ title: Publication
 [-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
 [-]. Sun, Yifan\*, **Sang, Peijun**, Tian, Qinglong & Li, Pengfei. [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](http://arxiv.org/abs/2502.08569). arXiv:2502.08569.\
-[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.
+[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
+[-]. **Sang, Peijun** & Li, Bing. [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). arXiv:2504.11583 
 
 
 ### Statistical Methodology Papers
