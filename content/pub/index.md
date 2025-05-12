@@ -39,8 +39,8 @@ title: Publication
 [16]. Luo, Y., **Sang, P.** & Xiao R. (2024). [Order Statistics Approaches to Unobserved Heterogeneity in Auctions](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-18/issue-1/Order-statistics-approaches-to-unobserved-heterogeneity-in-auctions/10.1214/24-EJS2258.full). *Electronic Journal of Statistics*, 18, 2477--2530.\
 [17]. **Sang, P.**, Kong, D. & Yang, S. (2025). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, 112, asae055.\
 [18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) [Two-sample Inference for Sparse Functional Data](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-1/Two-sample-inference-for-sparse-functional-data/10.1214/25-EJS2348.full). *Electronic Journal of Statistics*, 19, 792--864.\
-[19]. Jian, J.\*, Zhu, Mu & **Sang, Peijun**. [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). *Canadian Journal of Statistics*, accepted.
-[20]. Ma, H.T., **Sang, P.**, Feng, X & Liu, X (2025)[Robust Mixed Functional Classifier with Adaptive Large Margin Loss]. *Journal of Multivariate Analysis*, accepted.
+[19]. Jian, J.\*, Zhu, Mu & **Sang, P.**. (2025) [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). *Canadian Journal of Statistics*, accepted.\
+[20]. Ma, H.T., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss]. *Journal of Multivariate Analysis*, accepted.
 
 ### Application Papers
 
