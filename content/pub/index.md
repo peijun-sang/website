@@ -40,7 +40,8 @@ title: Publication
 [17]. **Sang, P.**, Kong, D. & Yang, S. (2025). [Functional Principal Component Analysis with informative observation time](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asae055/7825363?searchresult=1). *Biometrika*, 112, asae055.\
 [18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) [Two-sample Inference for Sparse Functional Data](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-1/Two-sample-inference-for-sparse-functional-data/10.1214/25-EJS2348.full). *Electronic Journal of Statistics*, 19, 792--864.\
 [19]. Jian, J.\*, Zhu, Mu & **Sang, P.**. (2025) [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). *Canadian Journal of Statistics*, accepted.\
-[20]. Ma, H.T., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss]. *Journal of Multivariate Analysis*, accepted.
+[20]. Ma, H., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss](). *Journal of Multivariate Analysis*, accepted.\
+[21]. Xie, J., Shi, E, **Sang, P.**, Shang, Z, Jiang, B & Kong, L (2025) [Scalable inference in functional linear regression with streaming data](https://arxiv.org/abs/2302.02457). *Annals of Statistics*, accepted.
 
 ### Application Papers
 
