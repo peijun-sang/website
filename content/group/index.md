@@ -25,11 +25,11 @@ title: Group
 + [Jie Jian](https://datascience.uchicago.edu/people/jie-jian/), co-supervisor: [Mu Zhu](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mu-zhu) (2024). Disseration: [Edge Estimation and Community Detection in Time-varying Networks](https://uwspace.uwaterloo.ca/handle/10012/20517). Next position: Postdoctoral Fellow at the Data Science Institute, University of Chicago.
 
 #### Master
-+ Xinyi Ke, MMath.
-+ Xiaoming Jin, MMath, Now a Data Scientist at TD Bank.
++ Xinyi Ke, MMath, Senior Reporting Specialist with the Government of Alberta 
++ Xiaoming Jin, MMath, Data Scientist at TD Bank.
 + Yuhan Cui, MMath, Canadian Institute for Health Information.
-+ Bingfan Liu, MMath, Now PhD student at Simon Fraser University.
-+ Yan Shi, MQF, Now a Quantitative Analyst at Scotia Bank.
++ Bingfan Liu, MMath, PhD student at Simon Fraser University.
++ Yan Shi, MQF, Quantitative Analyst at Scotia Bank.
 + Ziqiao Lin, MQF.
 
 
