@@ -25,6 +25,7 @@ title: Group
 + [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervisor: [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).(2025). 
 
 #### Master
++ Wenning Xu, MMath. 
 + Xinyi Ke, MMath, Senior Reporting Specialist with the Government of Alberta 
 + Xiaoming Jin, MMath, Data Scientist at TD Bank.
 + Yuhan Cui, MMath, Canadian Institute for Health Information.
