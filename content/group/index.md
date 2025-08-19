@@ -14,7 +14,6 @@ title: Group
 
 
 #### Ph.D. Students
-+ [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervisor: [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).
 + [Chi Zhang](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/c378zhan), co-supervisor: [Yingli Qin](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/yingli-qin).
 
 ---
@@ -23,6 +22,7 @@ title: Group
 
 #### Ph.D.
 + [Jie Jian](https://datascience.uchicago.edu/people/jie-jian/), co-supervisor: [Mu Zhu](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mu-zhu) (2024). Disseration: [Edge Estimation and Community Detection in Time-varying Networks](https://uwspace.uwaterloo.ca/handle/10012/20517). Next position: Postdoctoral Fellow at the Data Science Institute, University of Chicago.
++ [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervisor: [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).(2025). 
 
 #### Master
 + Xinyi Ke, MMath, Senior Reporting Specialist with the Government of Alberta 
