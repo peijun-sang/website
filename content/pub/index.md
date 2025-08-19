@@ -17,7 +17,7 @@ title: Publication
 [-]. Sun, Yifan\*, **Sang, Peijun**, Tian, Qinglong & Li, Pengfei. [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](http://arxiv.org/abs/2502.08569). arXiv:2502.08569.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
 [-]. **Sang, Peijun** & Li, Bing. [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). arXiv:2504.11583.\
-[-]. **Sang, Peijun** Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.
+[-]. **Sang, Peijun**, Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.
 
 
 
