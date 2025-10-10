@@ -22,7 +22,8 @@ title: Group
 
 #### Ph.D.
 + [Jie Jian](https://datascience.uchicago.edu/people/jie-jian/), co-supervisor: [Mu Zhu](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mu-zhu) (2024). Disseration: [Edge Estimation and Community Detection in Time-varying Networks](https://uwspace.uwaterloo.ca/handle/10012/20517). Next position: Postdoctoral Fellow at the Data Science Institute, University of Chicago.
-+ [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervisor: [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).(2025). 
++ [Mingwei Xu](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/m274xu), co-supervisor: [Samuel W.K. Wong](https://uwaterloo.ca/statistics-and-actuarial-science/about/people/s246wong).(2025). Disseration: [Bayesian Integral-based Methods for
+Differential Equation Models](https://uwspace.uwaterloo.ca/items/72e95790-24b2-4337-b8fc-f72bea9a6829)
 
 #### Master
 + Wenning Xu, MMath. 

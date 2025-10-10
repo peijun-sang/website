@@ -45,7 +45,7 @@ title: Publication
 [20]. Ma, H., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss](). *Journal of Multivariate Analysis*, accepted.\
 [21]. Xie, J., Shi, E, **Sang, P.**, Shang, Z, Jiang, B & Kong, L (2025) [Scalable inference in functional linear regression with streaming data](https://arxiv.org/abs/2302.02457). *Annals of Statistics*, accepted.\
 [22]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2025). [A Bayesian Collocation Integral Method for System Identification of Ordinary Differential Equations](). *Biometrics*, accepted.\
-[23]. Liu, M., Zhou, X, **Sang, P.**, Jiang, B & Kong, L (2025)[Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](). *Journal of Computational and Graphical Statistics*, accepted.
+[23]. Liu, M., Zhou, X, **Sang, P.**, Jiang, B & Kong, L (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](). *Journal of Computational and Graphical Statistics*, accepted.
 
 
 
