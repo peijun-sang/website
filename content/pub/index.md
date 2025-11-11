@@ -14,7 +14,6 @@ title: Publication
 [-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
-[-]. Sun, Yifan\*, **Sang, Peijun**, Tian, Qinglong & Li, Pengfei. [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](http://arxiv.org/abs/2502.08569). arXiv:2502.08569.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
 [-]. **Sang, Peijun** & Li, Bing. [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). arXiv:2504.11583.\
 [-]. **Sang, Peijun**, Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.
@@ -45,7 +44,8 @@ title: Publication
 [20]. Ma, H., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss](). *Journal of Multivariate Analysis*, accepted.\
 [21]. Xie, J., Shi, E, **Sang, P.**, Shang, Z, Jiang, B & Kong, L (2025) [Scalable inference in functional linear regression with streaming data](https://arxiv.org/abs/2302.02457). *Annals of Statistics*, accepted.\
 [22]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2025). [A Bayesian Collocation Integral Method for System Identification of Ordinary Differential Equations](). *Biometrics*, accepted.\
-[23]. Liu, M., Zhou, X, **Sang, P.**, Jiang, B & Kong, L (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](). *Journal of Computational and Graphical Statistics*, accepted.
+[23]. Liu, M., Zhou, X, **Sang, P.**, Jiang, B & Kong, L (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](). *Journal of Computational and Graphical Statistics*, accepted.\
+[24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](). *Statistics in Medicine*, accepted.
 
 
 
