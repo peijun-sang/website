@@ -11,7 +11,6 @@ title: Publication
 
 [-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
-[-]. Luo, Yao & **Sang, Peijun**. [Penalized Sieve Estimation of Structural Models](https://arxiv.org/abs/2204.13488). arXiv:2204.13488.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
@@ -47,7 +46,8 @@ title: Publication
 [22]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2025). [A Bayesian Collocation Integral Method for System Identification of Ordinary Differential Equations](https://academic.oup.com/biometrics/article/81/4/ujaf141/8303538). *Biometrics*, 81, ujaf141.\
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
-[25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2025) [Spectral Clustering for Functional Data with Asymptotic Properties](). *Statistica Sinica*, accepted.
+[25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2025) [Spectral Clustering for Functional Data with Asymptotic Properties](). *Statistica Sinica*, accepted.\
+[26]. Luo, Yao & **Sang, P.**(2026) [Penalized Sieve Estimation of Structural Models](). *Journal of Econometrics*, accepted.
 
 
 
