@@ -47,7 +47,7 @@ title: Publication
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
 [25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2025) [Spectral Clustering for Functional Data with Asymptotic Properties](). *Statistica Sinica*, accepted.\
-[26]. Luo, Yao & **Sang, P.**(2026) [Penalized Sieve Estimation of Structural Models](). *Journal of Econometrics*, accepted.
+[26]. Luo, Yao & **Sang, P.**(2026) [Efficient Estimation of Structural Models via Sieves](https://arxiv.org/abs/2204.13488). *Journal of Econometrics*, accepted.
 
 
 
