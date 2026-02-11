@@ -45,7 +45,7 @@ title: Publication
 [22]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2025). [A Bayesian Collocation Integral Method for System Identification of Ordinary Differential Equations](https://academic.oup.com/biometrics/article/81/4/ujaf141/8303538). *Biometrics*, 81, ujaf141.\
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
-[25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2025) [Spectral Clustering for Functional Data with Asymptotic Properties](). *Statistica Sinica*, accepted.\
+[25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2028) [Spectral Clustering for Functional Data with Asymptotic Properties](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2025-0153.html). *Statistica Sinica*, 38.\
 [26]. Luo, Y. & **Sang, P.**(2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
 [27]. **Sang, P.** & Li, B. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, accepted. 
 
