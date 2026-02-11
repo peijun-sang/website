@@ -12,10 +12,11 @@ title: Publication
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
-[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Determine the Order of Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
+[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Order Determination for Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
 [-]. **Sang, Peijun** & Li, Bing. [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). arXiv:2504.11583.\
 [-]. **Sang, Peijun**, Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.\
-[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Learning Shared and Source-specific Subspaces across Multiple Data Sources for Functional Data](https://arxiv.org/html/2510.13010v1). arXiv:2510.13010.
+[-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Learning Shared and Source-specific Subspaces across Multiple Data Sources for Functional Data](https://arxiv.org/html/2510.13010v1). arXiv:2510.13010.\
+[-]. Gu, Yu, Yangjianchen Xu & **Sang, Peijun**. [Varying coefficient model for longitudinal data with informative observation times](https://arxiv.org/abs/2601.17141). arXiv:2601.17141.
 
 
 
@@ -46,8 +47,8 @@ title: Publication
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
 [25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2028) [Spectral Clustering for Functional Data with Asymptotic Properties](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2025-0153.html). *Statistica Sinica*, 38.\
-[26]. Luo, Y. & **Sang, P.**(2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
-[27]. **Sang, P.** & Li, B. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, accepted. 
+[26]. Luo, Y. & **Sang, P.** (2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
+[27]. **Sang, P.** & Li, B. (2026) [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, accepted. 
 
 
 ### Application Papers
