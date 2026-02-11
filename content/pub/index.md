@@ -9,7 +9,6 @@ title: Publication
 
 ### Preprints
 
-[-]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). arXiv:2207.08211.\
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Shang, Zuofeng, **Sang, Peijun**, Feng, Yang & Jin, Chong. [Variational Nonparametric Inference in Functional Stochastic Block Model](https://arxiv.org/abs/2407.00564). arXiv:2407.00564.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
@@ -47,8 +46,8 @@ title: Publication
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
 [25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2025) [Spectral Clustering for Functional Data with Asymptotic Properties](). *Statistica Sinica*, accepted.\
-[26]. Luo, Yao & **Sang, P.**(2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.
-
+[26]. Luo, Yao & **Sang, P.**(2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
+[27]. **Sang, Peijun** & Li, Bing. [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, accepted. 
 
 
 ### Application Papers
