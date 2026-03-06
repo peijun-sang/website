@@ -42,13 +42,14 @@ title: Publication
 [18]. Zhang, C.\*, **Sang, P.** & Qin, Y. (2025) [Two-sample Inference for Sparse Functional Data](https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-19/issue-1/Two-sample-inference-for-sparse-functional-data/10.1214/25-EJS2348.full). *Electronic Journal of Statistics*, 19, 792--864.\
 [19]. Jian, J.\*, Zhu, Mu & **Sang, P.**. (2025) [Restricted Tweedie Stochastic Block Models](https://arxiv.org/abs/2310.10952). *Canadian Journal of Statistics*, accepted.\
 [20]. Ma, H., **Sang, P.**, Feng, X & Liu, X. (2025) [Robust Mixed Functional Classifier with Adaptive Large Margin Loss](https://www.sciencedirect.com/science/article/pii/S0047259X25001587). *Journal of Multivariate Analysis*, 213, 105563.\
-[21]. Xie, J., Shi, E, **Sang, P.**, Shang, Z, Jiang, B & Kong, L (2025) [Scalable inference in functional linear regression with streaming data](https://arxiv.org/abs/2302.02457). *Annals of Statistics*, accepted.\
+[21]. Xie, J., Shi, E, **Sang, P.**, Shang, Z, Jiang, B & Kong, L (2026) [Scalable inference in functional linear regression with streaming data](https://projecteuclid.org/journals/annals-of-statistics/volume-54/issue-1/Scalable-inference-in-functional-linear-regression-with-streaming-data/10.1214/25-AOS2549.short). *Annals of Statistics*, 54, 120-145.\
 [22]. Xu, M.\*, Wong, S.W.K. & **Sang, P.** (2025). [A Bayesian Collocation Integral Method for System Identification of Ordinary Differential Equations](https://academic.oup.com/biometrics/article/81/4/ujaf141/8303538). *Biometrics*, 81, ujaf141.\
 [23]. Liu, M., **Sang, P.**, Yan, X., Kong, L, Jiang, B. & Zhou, X. (2025) [Reproducing kernel-based semiparametric functional smoothed score estimation with binary responses](https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2574532). *Journal of Computational and Graphical Statistics*, accepted.\
 [24]. Sun, Y.,\*, **Sang, P.**, Tian, Q & Li, P. (2025) [Likelihood-based Nonparametric Receiver Operating Characteristic Curve Analysis in the Presence of Imperfect Reference Standard](https://onlinelibrary.wiley.com/doi/10.1002/sim.70327). *Statistics in Medicine*, 44, e70327.\
 [25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2028) [Spectral Clustering for Functional Data with Asymptotic Properties](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2025-0153.html). *Statistica Sinica*, 38.\
 [26]. Luo, Y. & **Sang, P.** (2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
-[27]. **Sang, P.** & Li, B. (2026) [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, accepted. 
+[27]. **Sang, P.** & Li, B. (2026) [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, 27, 1−54.\
+[28]. Yang, Z., **Sang, P.**, Han, Y., Jiang, B.,  Kong, L. & Zhou, X. (2026) [Personalized Treatment Design in the Context of Functional Confounding](). *Biometrics*, accepted.
 
 
 ### Application Papers
