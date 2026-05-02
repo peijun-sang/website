@@ -9,15 +9,18 @@ title: Group
 
 #### Postdoctoral Fellow
 
-+ [Yifan Sun](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/yifan-sun), PhD from the [University of Chinese Academy of Sciences](https://math.ucas.ac.cn/), co-mentor: [Pengfei Li](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/pengfei-li).
-+ [Chi-Kuang Yeh](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/chi-kuang-yeh), PhD from the [University of Waterloo](https://uwaterloo.ca/), CANSSI Distinguish Postdoctoral Fellow, co-mentor: [Yi Yang](https://www.math.mcgill.ca/yyang/) (McGill University). Next position: Assistant professor at the Department of Mathematics and Statistics, Georgia State University.
-
 
 #### Ph.D. Students
 
 ---
 
 ## Past
+
+#### Postdoctoral Fellow
+
++ [Yifan Sun](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/yifan-sun), PhD from the [University of Chinese Academy of Sciences](https://math.ucas.ac.cn/), co-mentor: [Pengfei Li](https://uwaterloo.ca/statistics-and-actuarial-science/profiles/pengfei-li).
++ [Chi-Kuang Yeh](https://uwaterloo.ca/statistics-and-actuarial-science/contacts/chi-kuang-yeh), PhD from the [University of Waterloo](https://uwaterloo.ca/), CANSSI Distinguish Postdoctoral Fellow, co-mentor: [Yi Yang](https://www.math.mcgill.ca/yyang/) (McGill University). Next position: Assistant professor at the Department of Mathematics and Statistics, Georgia State University.
+
 
 #### Ph.D.
 + [Jie Jian](https://datascience.uchicago.edu/people/jie-jian/), co-supervisor: [Mu Zhu](https://uwaterloo.ca/statistics-and-actuarial-science/people-profiles/mu-zhu) (2024). Dissertation: [Edge Estimation and Community Detection in Time-varying Networks](https://uwspace.uwaterloo.ca/handle/10012/20517). Next position: Postdoctoral Fellow at the Data Science Institute, University of Chicago.
