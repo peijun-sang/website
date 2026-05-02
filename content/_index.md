@@ -77,11 +77,11 @@ Hello, I am Peijun, often go by Perry, an associate professor in the [Department
 
 ## Research Interest
 
-* Functional data analysis
-* High-dimensional regression analysis
-* Copula and dependence modelling
+* Functional/Longitudinal data analysis
+* Nonparametric smoothing
 * Streaming data and online learning problems
 * PU learning and semi-supervised learning
+* Copula and dependence modelling
 
 ## Education
 
