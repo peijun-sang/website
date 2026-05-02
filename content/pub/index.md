@@ -48,7 +48,7 @@ title: Publication
 [25]. Ren, Y., Lin, J, **Sang, P.**, Wang, J. (2028) [Spectral Clustering for Functional Data with Asymptotic Properties](https://www3.stat.sinica.edu.tw/statistica/fp/SS-2025-0153.html). *Statistica Sinica*, 38.\
 [26]. Luo, Y. & **Sang, P.** (2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
 [27]. **Sang, P.** & Li, B. (2026) [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, 27, 1−54.\
-[28]. Yang, Z., **Sang, P.**, Han, Y., Jiang, B.,  Kong, L. & Zhou, X. (2026) [Personalized Treatment Design in the Context of Functional Confounding](). *Biometrics*, accepted.\
+[28]. Yang, Z., **Sang, P.**, Han, Y., Jiang, B.,  Kong, L. & Zhou, X. (2026) [Personalized Treatment Design in the Context of Functional Confounding](https://academic.oup.com/biometrics/article/82/2/ujag056/8657881). *Biometrics*, 82, ujag056.\
 [29]. Shang, Z, **Sang, P**, Feng, Y & Jin, C. (2026) [Variational Nonparametric Inference in Stochastic Block Models with Functional Covariates](https://arxiv.org/abs/2407.00564). *Journal of the American Statistical Association*, accepted.
 
 
