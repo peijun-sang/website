@@ -14,7 +14,8 @@ title: Publication
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Order Determination for Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
 [-]. **Sang, Peijun**, Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Learning Shared and Source-specific Subspaces across Multiple Data Sources for Functional Data](https://arxiv.org/html/2510.13010v1). arXiv:2510.13010.\
-[-]. Gu, Yu, Xu, Yangjianchen & **Sang, Peijun**. [Varying coefficient model for longitudinal data with informative observation times](https://arxiv.org/abs/2601.17141). arXiv:2601.17141.
+[-]. Gu, Yu, Xu, Yangjianchen & **Sang, Peijun**. [Varying coefficient model for longitudinal data with informative observation times](https://arxiv.org/abs/2601.17141). arXiv:2601.17141.\
+[-]. Xu, Yangjianchen & **Sang, Peijun**. [Functional Cox model for interval-censored data](http://arxiv.org/abs/2605.15303). arXiv:2605.15303.
 
 
 
