@@ -12,7 +12,6 @@ title: Publication
 [-]. **Sang, Peijun**, Shang, Zuofeng & Du, Pang. [Statistical Inference for Functional Linear Quantile Regression](https://arxiv.org/abs/2202.11747). arXiv:2202.11747.\
 [-]. Shang, Zuofeng, **Sang, Peijun** & Jin, Chong. [Bootstrap Nonparametric Inference under Data Integration](https://arxiv.org/abs/2501.01610). arXiv:2501.01610.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Order Determination for Functional Data](https://arxiv.org/abs/2503.03000). arXiv:2503.03000.\
-[-]. **Sang, Peijun** & Li, Bing. [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). arXiv:2504.11583.\
 [-]. **Sang, Peijun**, Sun, Yifan, Tian, Qinglong, Zeng, Donglin & Li, Pengfei. [Model Positive and Unlabeled Data with A Generalized Additive Density Ratio Model](https://arxiv.org/abs/2508.12446). arXiv:2508.12446.\
 [-]. Zhang, Chi\*, **Sang, Peijun** & Qin, Yingli. [Learning Shared and Source-specific Subspaces across Multiple Data Sources for Functional Data](https://arxiv.org/html/2510.13010v1). arXiv:2510.13010.\
 [-]. Gu, Yu, Xu, Yangjianchen & **Sang, Peijun**. [Varying coefficient model for longitudinal data with informative observation times](https://arxiv.org/abs/2601.17141). arXiv:2601.17141.
@@ -49,7 +48,8 @@ title: Publication
 [26]. Luo, Y. & **Sang, P.** (2026) [Efficient Estimation of Structural Models via Sieves](https://doi.org/10.1016/j.jeconom.2026.106184). *Journal of Econometrics*, 253, 106184.\
 [27]. **Sang, P.** & Li, B. (2026) [Nonlinear Function-on-function Regression by RKHS](https://arxiv.org/abs/2207.08211). *Journal of Machine Learning Research*, 27, 1−54.\
 [28]. Yang, Z., **Sang, P.**, Han, Y., Jiang, B.,  Kong, L. & Zhou, X. (2026) [Personalized Treatment Design in the Context of Functional Confounding](https://academic.oup.com/biometrics/article/82/2/ujag056/8657881). *Biometrics*, 82, ujag056.\
-[29]. Shang, Z, **Sang, P**, Feng, Y & Jin, C. (2026) [Variational Nonparametric Inference in Stochastic Block Models with Functional Covariates](https://arxiv.org/abs/2407.00564). *Journal of the American Statistical Association*, accepted.
+[29]. Shang, Z, **Sang, P**, Feng, Y & Jin, C. (2026) [Variational Nonparametric Inference in Stochastic Block Models with Functional Covariates](https://arxiv.org/abs/2407.00564). *Journal of the American Statistical Association*, accepted.\
+[30]. **Sang, Peijun** & Li, Bing.  (2026) [Kernel-based Method for Detecting Structural Break in Distribution of Functional Data](https://arxiv.org/abs/2504.11583). *Statistica Sinica*, accepted.
 
 
 ### Application Papers
