@@ -83,6 +83,11 @@ Hello, I am Peijun, often go by Perry, an associate professor in the [Department
 * PU learning and semi-supervised learning
 * Copula and dependence modelling
 
+## Openings
+
+I am recruiting self-motivated Master's and Ph.D. students. If you are interested, please 
+send me an email.
+
 ## Education
 
 Year | Degree | Institution
